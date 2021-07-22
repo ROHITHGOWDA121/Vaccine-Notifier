@@ -2,6 +2,7 @@
 A telegram group for instant vaccine notifications when available in Bangalore for the age group 18+ and 45+
 
 Telegram group for age 45+: https://t.me/blrvaccinenotifier45
+
 Telegram group for age 18+: https://t.me/blrvaccinenotifier
 
 We have used both the Cowin API, Telegram API, and Python for building the automation process.
